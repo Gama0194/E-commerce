@@ -51,9 +51,9 @@ Installation:
 
 6.node server.js
 
-
+```
 ## Deployed links
 ```
 Github Repository:https://github.com/Gama0194/E-commerce
-Video Link:
+Video Link: https://youtu.be/PhqSve5WNog
 ```
