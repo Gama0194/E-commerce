@@ -32,6 +32,26 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 ```
+
+
+## Usage
+```
+Installation:
+
+1. npm install 
+
+2.mysql -u root -p 
+-when prompted type in your MySQL password
+
+3.source db/schema.sql
+
+4.exit
+
+5.npm run seed
+
+6.node server.js
+
+
 ## Deployed links
 ```
 Github Repository:https://github.com/Gama0194/E-commerce
